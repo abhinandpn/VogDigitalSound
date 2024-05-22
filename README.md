@@ -4,7 +4,7 @@
   ![GitHub stars](https://img.shields.io/github/stars/abhinandpn/VogDigitalSound?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/abhinandpn/VogDigitalSound?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/abhinandpn?style=social)](https://twitter.com/intent/follow?screen_name=abhinandpn)
-  [![YouTube Video chanel]](https://www.youtube.com/@abhinand-pn)
+  [![YouTube Video chanel]()](https://www.youtube.com/@abhinand-pn)
 
   <br />
   <br />
