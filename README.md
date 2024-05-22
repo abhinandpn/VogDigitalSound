@@ -1,19 +1,19 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/techx)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/techx?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/techx?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/6snv-yu2_c4?style=social)](https://youtu.be/6snv-yu2_c4)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/abhinandpn/VogDigitalSound)
+  ![GitHub stars](https://img.shields.io/github/stars/abhinandpn/VogDigitalSound?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/abhinandpn/VogDigitalSound?style=social)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/abhinandpn?style=social)](https://twitter.com/intent/follow?screen_name=abhinandpn)
+  [![YouTube Video chanel](https://img.shields.io/youtube/views/6snv-yu2_c4?style=social)](https://www.youtube.com/@abhinand-pn)
 
   <br />
   <br />
 
-  <h2 align="center">Techx - Landing page website</h2>
+  <h2 align="center">VogDigitalSound - Landing page website</h2>
 
-  Techx is a fully responsive landing page website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  VogDigitalSound is a fully responsive landing page website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/techx/"><strong>➥ Live Demo</strong></a>
+  <a href="https://abhinandpn.github.io/VogDigitalSound/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Techx Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![VogDigitalSound Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -31,23 +31,23 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Techx** locally, run this command on your git bash:
+To run **VogDigitalSound** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/techx.git
+sudo git clone https://github.com/abhinandpn/VogDigitalSound.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/techx.git
+git clone https://github.com/abhinandpn/VogDigitalSound.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://x.com/abhinand_p_n).
 
 ### License
 
