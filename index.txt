@@ -1,10 +1,10 @@
-Techx - Make Chat Easy
+VogDigitalSound - Make Chat Easy
 
 
 
 #---------- HEADER ----------#
 
-Techx
+VogDigitalSound
 
 Home
 Services
@@ -28,7 +28,7 @@ alt = hero banner
 
 Make Chat Easy For Today's Digital Customers
 
-Techx is the ecommerce helpdesk center that turns your customer service into a profit center without any delay and increase your sale.
+VogDigitalSound is the ecommerce helpdesk center that turns your customer service into a profit center without any delay and increase your sale.
 
 placeholder = Enter Your Email
 
@@ -118,7 +118,7 @@ alt = stats
 
 386
 million
-Human Actions Saved On Techx
+Human Actions Saved On VogDigitalSound
 
 999
 million
@@ -130,7 +130,7 @@ Revenue Growth
 
 50
 software
-Integration Support In Techx
+Integration Support In VogDigitalSound
 
 
 
@@ -138,7 +138,7 @@ Integration Support In Techx
 
 Download Mobile App To Stay Connected
 
-Techx Projects gives you the added advantage of several other Techx apps and third party apps through seamless integrations.
+VogDigitalSound Projects gives you the added advantage of several other VogDigitalSound apps and third party apps through seamless integrations.
 
 alt = play store icon
 GET IT ON
@@ -163,7 +163,7 @@ Contact Us Now
 
 #---------- FOOTER ----------#
 
-Techx
+VogDigitalSound
 
 Services
 
@@ -188,10 +188,10 @@ Call Us:
 Address:
 Vermont Ave, Los Angeles, CA 90044
 Mail Us:
-hello@Techx.com
+hello@VogDigitalSound.com
 
 
-&copy; 2022 Techx. All rights reserved by codewithsadee
+&copy; 2022 VogDigitalSound. All rights reserved by abhinandpn
 
 Privacy Policy
 Security
