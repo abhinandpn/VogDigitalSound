@@ -685,7 +685,9 @@ body {
   gap: 5px;
 }
 
-.footer-item .span { color: var(--black); }
+.footer-item .span { 
+  color: var(--black);
+}
 
 .footer-item-link {
   display: inline-block;
@@ -1239,4 +1241,10 @@ body {
 
   .app .btn-group { justify-content: flex-start; }
 
+}
+
+
+/* New ... */
+.contact-item {
+  margin-bottom: 10px;
 }
